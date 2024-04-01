@@ -11,9 +11,9 @@ This is the initial web version of falchemy web which showcases the 3D material 
   - product wishlist, buy and tryouts with own avatars
 
 ## technical todos
-  - [] 3d rotation feature with controls
-  - [] search option to select more models
-  - [] product wishlist, buy now and add to cart
+[] 3d rotation feature with controls
+[] search option to select more models
+[] product wishlist, buy now and add to cart
 
 ## for more info
   contact: ssenthil1490@gmail.com
