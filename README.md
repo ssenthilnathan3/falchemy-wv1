@@ -7,7 +7,7 @@ This is the initial web version of falchemy web which showcases the 3D material 
   - it also includes color and logo selection for customisation
 
 ## future plans
-  - this project will have a final version as an new age ecommerce website including 3d customisation
+  - comfyui workflow integration
   - product wishlist, buy and tryouts with own avatars
 
 ## technical todos
